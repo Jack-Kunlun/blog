@@ -1,14 +1,7 @@
 # Vite + React + Typescript + Antd
 
-一个使用`vite`搭建的`react`项目，支持`TypeScript`、`Antd`，以及`eslint`/`prettier`/`stylelint`/`commitlint`等工程化管理~
-
+使用`vite`搭建的`react`项目，使用`TypeScript`语言开发，引入`Antd`组件库，以及`eslint`/`prettier`/`commitlint`等工程化管理，并且已经集成windicss和storybook。
 ## 开发
-
-- **克隆到本地**
-
-```sh
-# clone
-git clone git@github.com:GDZ528/vite-blog.git
 
 # install
 yarn install
@@ -72,7 +65,7 @@ yarn dev
 
 ## 计划
 
-- [ ]
+- []
 
 ## 版本
 
